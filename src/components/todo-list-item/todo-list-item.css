@@ -1,0 +1,14 @@
+.item-delete-button{
+    background:#696a6c;
+    color:white;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+    border-radius: .3rem;
+    border: none;
+}
+.item-delete-button:hover{
+    cursor: pointer;
+}
+.todo-list-item{
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.item-add-form{
+    display: flex;
+}
+.item-form-input{
+    flex-grow: 1;
+    font-size: 1.5rem;
+}
+.item-form-button{
+    font-size: 1.5rem;
+}
+.item-form-button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.todo-list{
+    list-style-type: none;
+    font-size: 1.5rem;
+    border:1px black solid;
+    height: 400px;
+    padding-left: 0rem;
+    overflow-y:scroll;
+}
+.todo-list-item-container{
+    border-bottom:1px solid black;
+    padding:1rem 0 0 1rem;
+}
